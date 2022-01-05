@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-learn</string>
+    <string name="title_activity_main">capacitor-learn</string>
+    <string name="package_name">com.naviishagreens.capapp</string>
+    <string name="custom_url_scheme">com.naviishagreens.capapp</string>
+</resources>
